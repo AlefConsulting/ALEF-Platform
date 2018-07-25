@@ -29,6 +29,6 @@ FMS - .Net sources for Solution, which allow to build Financial Management Syste
 BMS - .Net sources for Solution, which allow to build Budget Management System...
 PDP - .Net sources for Solution, which allow to build Data Scrapper System, which collects data from Internet and provide verification of collected quantitative data..
 
-This is very hurd job. We ready to do this job. But we need to understand, that somebody need it. We are very appreciated for any feedback (Need - Don't need, Usefull or not, Like - don't like). 
+This is very hurd job. We ready to do this job. But we need to understand, that somebody really need it. We are very appreciated for any feedback (Need - Don't need, Usefull or not, Like - don't like). 
 We will very appreciated for the opinion, what priority of source publication is more useful for IT society.
 And, for sure, we need your help ($) and/or participation (hours). 
