@@ -31,4 +31,4 @@ PDP - .Net sources for Solution, which allow to build Data Scrapper System, whic
 
 This is very hurd job. We ready to do this job. But we need to understand, that somebody really need it. We are very appreciated for any feedback (Need - Don't need, Usefull or not, Like - don't like). 
 We will very appreciated for the opinion, what priority of source publication is more useful for IT society.
-And, for sure, we need your help ($) and/or participation (hours). 
+And, for sure, we need your help ($) and/or participation (hours). Let us know, if you are ready to speed up the process we have started.
