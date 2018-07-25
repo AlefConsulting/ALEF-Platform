@@ -1,4 +1,4 @@
-# Platform Alef
+#Alef Platform 
 SOHO and Corporate Application Designer Win 32 software for the 6.1 English version
 This application have a long history of usage. We started to develope first version in 1993. Since it have a long story of successful fullfilment of sofisticated projects.
 If you don't care a finance allocations and managerial accountings, you can simply use the set of effective designers to build your own application. The set of designers includes:
