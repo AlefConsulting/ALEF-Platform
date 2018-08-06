@@ -1,0 +1,3 @@
+1. Create for your MS SQL Server database for you solution and restore dump from file DB_CLEAN_AND_EMPTY.zip. Now you have empty and fully functional ALEF Platform database for your solution
+2. Create directory for the WIN32 client. There you will locate WIN32 client file and your dlls. You will need to add your own dlls on .Net, in case you would like to write your code more complex, that it is provided with embedded scripts functionality
+3. Unpack ALEF-Platform/WIN32_Version.part1.rar and ALEF-Platform/WIN32_Version.part2.rar into created directory. Your system ready to use. 
