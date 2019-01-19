@@ -1,5 +1,5 @@
 # Alef Platform 
-ALEF Platform is a SOHO and Corporate Application Designer
+ALEF Platform is both a Corporate and SOHO Application Designer
 This application have a long history of usage. We started to develope first version in 1993. Since it have a long story of successful fullfilment of sofisticated projects.
 If you don't care a finance allocations and managerial accountings, you can simply use the set of effective designers to build your own application. The set of designers includes:
 - Document designer. Allows to create or manage documents, their forms and alghorithms.... Everything, that support appearance and behaviour of documents in a application. When we saing Document, we keep in mind Form, which support you interaction with Data
